@@ -22,7 +22,7 @@ int main()
 
 
 /* 
-Example - 
+Example Output- 
 Enter limit 5
 0
 1
